@@ -1,0 +1,15 @@
+Comandos Git:
+
+mkdir
+git add strogonoff.txt receitas/
+git add *
+git rm
+git commit -m
+git config --list -> Lista todas as configurações (email, nick, etc)
+git config --global --unset user.name -> Remove o atributo user.name do commit (irá pedir pra preencher quando der commit)
+git config --global user.name "Luishtfs" -> Adiciona o atributo user.name ao commit (não irá pedir pra preencher quando der commit)
+git remote add origin https://github.com/Luishtfs/livro-receitas.git -> Cadastra o URL diretório remoto
+git remote -v -> Exibe quais os URLs de diretório remoto cadastrados
+git push origin master -> Faz o 'PUSH' do arquivo diretório local (computador) para o diretório remoto (GitHub)
+git pull origin master -> Traz o arquivo do GitHub para sua máquina (diretório local)
+git clone https://github.com/python/cpython.git -> Clona um repositório
