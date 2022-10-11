@@ -1,2 +1,1 @@
-# DIO
-Repositório para Anotações / Exercícios / Projetos / Códigos dos cursos DIO
+# Repositório de Anotações e Códigos Referentes às aulas dos Cursos DIO
